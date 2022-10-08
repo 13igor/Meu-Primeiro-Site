@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    background-color: blueviolet;
+}
+body {
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    border-radius: 50%;
+}
